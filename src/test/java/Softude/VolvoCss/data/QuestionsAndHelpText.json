@@ -1,0 +1,45 @@
+[
+{
+"Question":"Hello this question is added for testing",
+"HelpText":"Hello this is the Help text added from QA",
+"Domain":"Aftermarket Survey - Bus",
+"AfterMarketTouchPoint":"Workshop",
+"QuestionType":"Radio",
+"CustomerCommitment":"Warm Welcome"
+},
+{
+"Question":"Hello this is the second question added for testing",
+"HelpText":"Hello this is the Help text added from QA",
+"Domain":"Aftermarket Survey - Truck",
+"AfterMarketTouchPoint":"Site visit",
+"QuestionType":"Radio",
+"CustomerCommitment":"Open Dialogue"
+
+},
+{
+"Question":"Hello this is the Third question added for testing",
+"HelpText":"Hello this is the Help text added from QA",
+"Domain":"Aftermarket Survey - Truck",
+"AfterMarketTouchPoint":"Site support",
+"QuestionType":"Radio",
+"CustomerCommitment":"Right First Time"
+},
+{
+"Question":"Hello this is the fourth question added for testing",
+"HelpText":"Hello this is the Help text added from QA",
+"Domain":"Aftermarket Survey - Bus",
+"AfterMarketTouchPoint":"Workshop",
+"QuestionType":"Radio",
+"CustomerCommitment":"First Class Delivery"
+},
+{
+"Question":"Hello this is the fifth question added for testing",
+"HelpText":"Hello this is the Help text added from QA",
+"Domain":"Aftermarket Survey - Truck",
+"AfterMarketTouchPoint":"Site support",
+"QuestionType":"Radio",
+"CustomerCommitment":"Clear Agreement"
+}
+
+
+]
